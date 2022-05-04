@@ -1,7 +1,8 @@
 # The big not so friendly giant.
 
->"Crunch crunch, smek smek"
 <img src="pictures/Giant.png" alt="picture giant" width="200"/>
+
+>"Crunch crunch, smek smek"
 
 I could hear him before I could see him.
 He has never learned how to eat properly, you could tell at first glance. 
